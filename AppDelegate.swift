@@ -1,6 +1,5 @@
 //
 //  AppDelegate.swift
-//  Clima
 //
 //  Created by Monkey ZXR on 03/12/2018.
 //
